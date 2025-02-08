@@ -55,6 +55,7 @@ Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No
     style ="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-1077&theme=gruvbox&custom_title=Tecnologias"
   />
+</p>
 
 <!---
 JP-1077/JP-1077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
