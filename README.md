@@ -1,14 +1,11 @@
-- 👋 Olá, eu sou João Pedro Mendes Fonseca
-- 📊💡 Analista e Cientista de Dados
-- 🚀🧠 Habilidades e Tecnologias:
-  
-          Linguagens: Python, SQL, R
-          Bibliotecas: Beatiful Soup, Pandas, Numpy Matplotilib, Seaborn, Skicit - Learn, Tensor - Flow
-          Banco de Dados: SQL Server e My SQL
-          Ferramentas de Visualização: Power BI e Tableau
-          Cloud Computing: AWS (Amazon Web Services) e GCP (Google Cloud Plataform)
-          ETL ( Extract, Transform e Load): Para Integração de Dados
-          Estatistica: Para analise de Dados e construção de modelos
+## 🧑🏾‍💻João Pedro Mendes Fonseca
+
+**`Cientista de Dados e Desenvolvedor`**
+
+Sou apaixonado por Dados e Desenvolvimento!
+Atualmente, atuo como analista de dados, enquanto curso Bacharelado em Ciência de Dados e Inteligência Artificial.
+Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No meu canal "[Dados em Foco](https://www.youtube.com/@dados_em_foco)", compartilho conhecimento sobre análise de dados, ciência de dados e programação. Com o objetivo de ajudar outras pessoas a se desenvolverem e repassar meu conhecimento adquirido nessa minha jornada de aprendizado.
+
 
 - 👨🏾‍🎓🎓Educação
         Bacharelado: Ciência de Dados e Inteligência Artificial
