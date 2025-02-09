@@ -39,21 +39,26 @@ Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No
 
 ---
 
-## 📊 Estatisticas
+## 📊 Estatísticas  
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img 
-    alt="Github-stats" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=JP-1077&show_icons=true&theme=gruvbox&custom_title=Commits"
-  />
-  
-  <img 
-    alt="Github-languages" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-1077&theme=gruvbox&custom_title=Tecnologias"
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="Github-stats" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=JP-1077&show_icons=true&theme=gruvbox&custom_title=Commits"
+      />
+    </td>
+    <td>
+      <img 
+        alt="Github-languages" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-1077&theme=gruvbox&custom_title=Tecnologias"
+      />
+    </td>
+  </tr>
+</table>
 
 #
 
