@@ -1,4 +1,8 @@
-## 🧑🏾‍💻João Pedro Mendes Fonseca
+<a href="https://github.com/JP-1077">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7BF28&width=600&lines=João+Pedro+Mendes+Fonseca" alt="Typing Animation" align="left"/>
+</a>
+
+#
 
 **`Cientista de Dados e Desenvolvedor`**
 
@@ -6,7 +10,7 @@ Sou apaixonado por Dados e Desenvolvimento!
 Atualmente, atuo como analista de dados, enquanto curso Bacharelado em Ciência de Dados e Inteligência Artificial.
 Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No meu canal "[Dados em Foco](https://www.youtube.com/@dados_em_foco)", compartilho conhecimento sobre análise de dados, ciência de dados e programação. Com o objetivo de ajudar outras pessoas a se desenvolverem e repassar meu conhecimento adquirido nessa minha jornada de aprendizado.
 
----
+#
 
 ## 🌐 Redes Sociais
 
@@ -19,7 +23,7 @@ Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No
 </a>
 </div>
 
----
+#
 
 ## ⚙️ Tecnologias
 
@@ -37,7 +41,7 @@ Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No
   <img align="center" alt="JP-R" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> 
 </div>
 
----
+#
 
 ## 📊 Estatísticas  
 
