@@ -4,7 +4,7 @@
 
 #
 
-**`Cientista de Dados e Desenvolvedor`**
+### **`Cientista de Dados e Desenvolvedor`**
 
 Sou apaixonado por Dados e Desenvolvimento!
 Atualmente, atuo como analista de dados, enquanto curso Bacharelado em Ciência de Dados e Inteligência Artificial.
