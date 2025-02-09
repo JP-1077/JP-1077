@@ -8,7 +8,7 @@ Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No
 
 ---
 
-## Redes Sociais
+## 🌐 Redes Sociais
 
 <div>
 <a href = "https://www.linkedin.com/in/jo%C3%A3o-pedro-mendes-fonseca-864455219 " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="">
@@ -21,7 +21,7 @@ Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No
 
 ---
 
-## Tecnologias
+## ⚙️ Tecnologias
 
 <div style="display: inline_block">
   <img align="center" alt="JP-Py" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> -
@@ -39,7 +39,7 @@ Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No
 
 ---
 
-## Estatisticas
+## 📊 Estatisticas
 <p>
   <img 
     align="left" 
