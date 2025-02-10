@@ -4,7 +4,8 @@
 
 #
 
-### **`Cientista de Dados e Desenvolvedor`**
+### **`Cientista de Dados e Desenvolvedor`** <img src="https://github.com/user-attachments/assets/d765507a-2660-4fdf-b6c4-23e43cf8115b" width="60">
+
 
 Sou apaixonado por Dados e Desenvolvimento!
 Atualmente, atuo como analista de dados, enquanto curso Bacharelado em Ciência de Dados e Inteligência Artificial.
