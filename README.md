@@ -32,8 +32,7 @@ Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No
   <img align="center" alt="JP-Py" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> -
   <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"> -
   <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"> - 
-  <img align="center" alt="JP-R" height="45" width="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png"> - 
-  <img align="center" alt="JP-R" height="65" width="60" src="https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png"> -
+  <img align="center" alt="JP-R" height="45" width="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png"> - -
   <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> -
   <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> -
   <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> -
