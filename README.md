@@ -4,7 +4,7 @@
 
 #
 
-### **`Cientista de Dados e Desenvolvedor`** <img src="https://github.com/user-attachments/assets/d765507a-2660-4fdf-b6c4-23e43cf8115b" width="50">
+### **`Cientista de Dados e Desenvolvedor Back - End`** <img src="https://github.com/user-attachments/assets/d765507a-2660-4fdf-b6c4-23e43cf8115b" width="50">
 
 
 Sou apaixonado por Dados e Desenvolvimento!
@@ -31,14 +31,15 @@ Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No
 <div style="display: inline_block">
   <img align="center" alt="JP-Py" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> -
   <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"> -
-  <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"> - 
-  <img align="center" alt="JP-R" height="45" width="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png"> -
-  <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> -
-  <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> -
+  <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"> -  
+  <img align="center" alt="JP-R" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> -
+  <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"> -
   <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> -
-  <img align="center" alt="JP-R" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> - 
-  <img align="center" alt="JP-R" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> - 
-  <img align="center" alt="JP-R" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> 
+  <img align="center" alt="JP-R" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"> - 
+  <img align="center" alt="JP-R" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"> - 
+  <img align="center" alt="JP-R" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> -
+  <img align="center" alt="JP-R" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> -
+  <img align="center" alt="JP-R" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
 
 #
