@@ -4,12 +4,15 @@
 
 #
 
-### **`Cientista de Dados e Desenvolvedor Back - End`** <img src="https://github.com/user-attachments/assets/d765507a-2660-4fdf-b6c4-23e43cf8115b" width="50">
+### **`Software Developer`** <img src="https://github.com/user-attachments/assets/d765507a-2660-4fdf-b6c4-23e43cf8115b" width="50">
 
 
-Sou apaixonado por Dados e Desenvolvimento!
-Atualmente, atuo como analista de dados, enquanto curso Bacharelado em Ciência de Dados e Inteligência Artificial.
-Minha curiosidade por Dados e Tecnologia vai além do trabalho e dos estudos. No meu canal "[Dados em Foco](https://www.youtube.com/@dados_em_foco)", compartilho conhecimento sobre análise de dados, ciência de dados e programação. Com o objetivo de ajudar outras pessoas a se desenvolverem e repassar meu conhecimento adquirido nessa minha jornada de aprendizado.
+Atualmente, atuo como Systems analyst developer na TIM Brasil, atuando em todo o ciclo de vidas de projetos de software - desde da análise de requisitos, modelagem, desenvolvimento, implementação e manutenção de sistemas. Tenho sólida experiência em programação, desenvolvimento de software, machine learning e inteligência artificial com foco em construir soluções escaláveis e eficientes.
+
+Busco sempre compreender o problema antes de implementar, garantindo entregas consistentes e seguras. Portanto, viso unir a visão técnica e pensamento analítico para propor soluções que realmente agregam valor ao negócio.
+
+
+Minha atuação se baseia em na comunicação, proatividade, foco em resultados e resolução de problemas. Sempre com atenção à qualidade e à melhoria contínua dos processos e sistemas sob minha responsabilidade.
 
 #
 
