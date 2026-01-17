@@ -1,11 +1,12 @@
-<a href="https://github.com/JP-1077">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7BF28&width=600&lines=João+Pedro+Mendes+Fonseca" alt="Typing Animation" align="left"/>
-</a>
+<div align="center">
 
-#
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7BF28&width=600&center=true&lines=João+Pedro+Mendes+Fonseca" />
 
-### **`Software Developer`** <img src="https://github.com/user-attachments/assets/d765507a-2660-4fdf-b6c4-23e43cf8115b" width="50">
+### **Software Developer**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</div>
 
+---
 
 Atualmente, atuo como Systems analyst developer na TIM Brasil, atuando em todo o ciclo de vidas de projetos de software - desde da análise de requisitos, modelagem, desenvolvimento, implementação e manutenção de sistemas. Tenho sólida experiência em programação, desenvolvimento de software, machine learning e inteligência artificial com foco em construir soluções escaláveis e eficientes.
 
@@ -14,11 +15,10 @@ Busco sempre compreender o problema antes de implementar, garantindo entregas co
 
 Minha atuação se baseia em na comunicação, proatividade, foco em resultados e resolução de problemas. Sempre com atenção à qualidade e à melhoria contínua dos processos e sistemas sob minha responsabilidade.
 
-#
 
-## 🌐 Redes Sociais
+<h2 align="center">🌐 Redes Sociais</h2>
 
-<div>
+<div align="center">
 <a href = "https://www.linkedin.com/in/jo%C3%A3o-pedro-mendes-fonseca-864455219 " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="">
 </a>
 <a href="http://www.youtube.com/@dados_em_foco" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
@@ -27,11 +27,10 @@ Minha atuação se baseia em na comunicação, proatividade, foco em resultados 
 </a>
 </div>
 
-#
 
-## ⚙️ Tecnologias
+<h2 align="center">⚙️ Tecnologias</h2>
 
-<div style="display: inline_block">
+<div style="display: inline_block", align="center">
   <img align="center" alt="JP-Py" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> -
   <img align="center" alt="JP-fastapi" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"> -
   <img align="center" alt="JP-django" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"> -  
@@ -64,14 +63,15 @@ Minha atuação se baseia em na comunicação, proatividade, foco em resultados 
 
 </div>
 
-## ✅ Histórico dos Commits 
+<h2 align="center">✅ Histórico dos Commits </h2>
 
+<div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JP-1077/JP-1077/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JP-1077/JP-1077/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JP-1077/JP-1077/output/github-contribution-grid-snake.svg">
 </picture>
-
+</div>
 <!---
 JP-1077/JP-1077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
