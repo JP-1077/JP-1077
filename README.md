@@ -33,16 +33,17 @@ Minha atuação se baseia em na comunicação, proatividade, foco em resultados 
 
 <div style="display: inline_block">
   <img align="center" alt="JP-Py" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> -
-  <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"> -
-  <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"> -  
-  <img align="center" alt="JP-R" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> -
-  <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"> -
-  <img align="center" alt="JP-R" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> -
-  <img align="center" alt="JP-R" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"> - 
-  <img align="center" alt="JP-R" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"> - 
-  <img align="center" alt="JP-R" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> -
-  <img align="center" alt="JP-R" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> -
-  <img align="center" alt="JP-R" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="JP-fastapi" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"> -
+  <img align="center" alt="JP-django" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"> -  
+  <img align="center" alt="JP-sql" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> -
+  <img align="center" alt="JP-devops" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"> -
+  <img align="center" alt="JP-gcp" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"> -
+  <img align="center" alt="JP-aws" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> -
+  <img align="center" alt="JP-git" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"> - 
+  <img align="center" alt="JP-docker" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"> - 
+  <img align="center" alt="JP-html" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> -
+  <img align="center" alt="JP-css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> -
+  <img align="center" alt="JP-js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
 
 #
