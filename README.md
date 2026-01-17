@@ -48,28 +48,23 @@ Minha atuação se baseia em na comunicação, proatividade, foco em resultados 
 
 #
 
-## 📊 Estatísticas  
+<h2 align="center">📊 Estatísticas</h2>
 
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="Github-stats" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=JP-1077&show_icons=true&theme=gruvbox&custom_title=Commits"
-      />
-    </td>
-    <td>
-      <img 
-        alt="Github-languages" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-1077&theme=gruvbox&custom_title=Tecnologias"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-#
+<img
+  height="170"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=JP-1077&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+&nbsp;&nbsp;&nbsp;
+<img
+  height="170"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JP-1077&theme=tokyonight&layout=compact&hide_border=true"
+/>
+
+</div>
+
+## ✅ Histórico dos Commits 
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JP-1077/JP-1077/output/github-contribution-grid-snake-dark.svg">
