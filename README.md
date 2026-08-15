@@ -8,7 +8,7 @@
 
 ---
 
-Atualmente, atuo como Systems analyst developer na TIM Brasil, atuando em todo o ciclo de vidas de projetos de software - desde da análise de requisitos, modelagem, desenvolvimento, implementação e manutenção de sistemas. Tenho sólida experiência em programação, desenvolvimento de software, machine learning e inteligência artificial com foco em construir soluções escaláveis e eficientes.
+Atualmente, atuo como Software Developer na TIM Brasil, atuando em todo o ciclo de vidas de projetos de software - desde da análise de requisitos, modelagem, desenvolvimento, implementação e manutenção de sistemas. Tenho sólida experiência em programação, desenvolvimento de software, machine learning e inteligência artificial com foco em construir soluções escaláveis e eficientes.
 
 Busco sempre compreender o problema antes de implementar, garantindo entregas consistentes e seguras. Portanto, viso unir a visão técnica e pensamento analítico para propor soluções que realmente agregam valor ao negócio.
 
