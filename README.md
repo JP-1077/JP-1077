@@ -51,15 +51,17 @@ Minha atuação se baseia em na comunicação, proatividade, foco em resultados 
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=JP-1077&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-&nbsp;&nbsp;&nbsp;
-<img
-  height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JP-1077&theme=tokyonight&layout=compact&hide_border=true"
-/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=JP-1077&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-1077&theme=tokyonight&layout=compact&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
 
 </div>
 
